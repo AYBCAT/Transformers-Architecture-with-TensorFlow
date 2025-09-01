@@ -10,4 +10,4 @@ This repository provides an educational implementation of the **Transformer arch
 
 ## 🔎 Architecture Overview  
 
-![Transformer Architecture](assets/transformer.gif)
+![Transformer Architecture](transformer.gif)
